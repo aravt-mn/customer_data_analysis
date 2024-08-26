@@ -23,7 +23,7 @@ To install the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/customer_data_analysis.git
+    git clone https://github.com/aravt-mn/customer_data_analysis.git
     ```
 2. Navigate to the project directory:
     ```sh
