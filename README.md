@@ -80,5 +80,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For any questions or suggestions, please contact:
-- Your Name: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Your Name: [aravt.mn@gmail.com](mailto:aravt.mn@gmail.com)
+- GitHub: [aravt-mn](https://github.com/aravt-mn)
